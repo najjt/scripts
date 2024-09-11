@@ -22,4 +22,4 @@ case $1 in
 
 esac
 
-notify-send -t 1000 "Volume: $CURRENT_VOL $MUTED"
+notify-send -t 1000 "󰎇 Volume: $CURRENT_VOL $MUTED"
