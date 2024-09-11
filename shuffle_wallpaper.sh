@@ -3,7 +3,7 @@
 # Source: https://www.reddit.com/r/linux4noobs/comments/18gszjq/how_do_i_make_swww_use_a_random_or_cycle_through/
 
 # Set the path to the wallpapers directory
-wallpapersDir="$HOME/resources/wallpapers"
+wallpapersDir="$HOME/Pictures/wallpapers"
 
 # Get a list of all image files in the wallpapers directory
 wallpapers=("$wallpapersDir"/*)
