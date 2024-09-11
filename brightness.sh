@@ -15,4 +15,4 @@ case $1 in
 
 esac
 
-notify-send -t 1000 " Brightness: $CURRENT_BR"
+notify-send -t 1000 "󰃞  Brightness: $CURRENT_BR"
